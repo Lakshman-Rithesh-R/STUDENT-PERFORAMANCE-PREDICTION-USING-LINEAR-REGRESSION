@@ -92,7 +92,7 @@ plt.show()
 
 Clone this repository
 
-git clone https://github.com/Lakshman Rithesh R/student-performance-prediction.git
+git clone https://github.com/Lakshman-Rithesh-R/student-performance-prediction.git
 cd student-performance-prediction
 
 
